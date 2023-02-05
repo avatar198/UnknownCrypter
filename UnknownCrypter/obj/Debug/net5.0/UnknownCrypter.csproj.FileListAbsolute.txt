@@ -1,0 +1,16 @@
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\bin\Debug\net5.0\UnknownCrypter.exe
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\bin\Debug\net5.0\UnknownCrypter.deps.json
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\bin\Debug\net5.0\UnknownCrypter.runtimeconfig.json
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\bin\Debug\net5.0\UnknownCrypter.runtimeconfig.dev.json
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\bin\Debug\net5.0\UnknownCrypter.dll
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\bin\Debug\net5.0\ref\UnknownCrypter.dll
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\bin\Debug\net5.0\UnknownCrypter.pdb
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.csproj.AssemblyReference.cache
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.AssemblyInfoInputs.cache
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.AssemblyInfo.cs
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.csproj.CoreCompileInputs.cache
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.dll
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\ref\UnknownCrypter.dll
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.pdb
+C:\Users\Heisenberg\source\repos\UnknownCrypter\UnknownCrypter\obj\Debug\net5.0\UnknownCrypter.genruntimeconfig.cache
